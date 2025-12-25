@@ -34,13 +34,6 @@ npm start
 * Express handles routing and server setup
 * Socket.IO manages real-time WebSocket connections and events
 
-## 📄 Resume Description
-
-* Built a real-time chat application using Node.js, Express.js, and Socket.IO
-* Implemented event-driven architecture for instant message delivery
-* Managed multiple client connections with WebSockets
-* Improved real-time communication performance and scalability
-
 ## 🔗 GitHub
 
 Add your repository link here
